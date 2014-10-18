@@ -1,5 +1,7 @@
-daily-docker
+daily-docker :whale:
 ============
+
+for playing or dev only
 
 memo
 
